@@ -19,10 +19,14 @@ public ArrayList\<String\> getWordsOfLength(int len) \- Returns an ArrayList of 
 **WordFamily**
 
 ***Instance Fields:***  
-…
+private ArrayList \<String\> wordFamily;
 
 ***Methods:***  
-…
+public WordFamily() \- Constructs a WordFamily and initializes the ArrayList wordFamily.
+
+public void add(String word) \- Adds the given String word to the ArrayList wordFamily.
+
+public String getCode() \- Returns the common code of the WordFamily.
 
 **WordFamilyList**
 
