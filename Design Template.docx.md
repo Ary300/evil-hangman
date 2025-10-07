@@ -38,6 +38,14 @@ private ArrayList<String>() LargestFamily;
 
 ***Methods:***
 
+public wordFamilyList() /- This would initialize an emtpy WordFamilyList ArrayList 
+
+public void processGuess(ArrayList<String> Words, char guess) /- This would calculate the code for each word from the guess using the getCode() method and then it will sort that into a specific wordFamily or create a new one and add it to WordFamilyList 
+
+public wordFamily getLargestFamily() - Returns the wordFamily in WordFamilyList with the most words 
+
+public int getLargestFamily() - Returns the number of words in the LargestFamily 
+
 **Driver Pseudocode**
 
 Create a Dictionary object, passing the file you want to read from  
