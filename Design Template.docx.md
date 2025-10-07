@@ -24,7 +24,13 @@ public ArrayList\<String\> getWordsOfLength(int len) \- Returns an ArrayList of 
 ***Methods:***  
 …
 
-*ADD OTHER CLASSES YOU WANT*
+**WordFamilyList**
+
+***Instance Fields:***
+     - private ArrayList<WordFamily>() WordFamilyList; 
+     - private ArrayList<String>() LargestFamily; 
+
+***Methods:***
 
 **Driver Pseudocode**
 
