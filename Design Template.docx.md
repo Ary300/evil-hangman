@@ -1,5 +1,6 @@
 **Evil Hangman Design**  
-**Team Members: \<your names here\>**
+
+**Team Members: Aryav Das and Garrett Hur>**
 
 Review the project description/requirements carefully then consider what classes are needed to solve the problem. For each class, you need to determine the instance fields and methods it will include. Once this is finalized, you should document all the classes, instance fields and methods. Example documentation is below. Next, you need to create pseudocode for your main method of your Driver class. An example of this is also given. You may find it helpful to do a "walkthrough" of your program logic with sample data to help ensure all necessary functionality is accounted for. Of course, all of this is going to take time and energy to produce. Why do you think this step is so critical in software development?
 
