@@ -40,12 +40,18 @@ Create a Dictionary object, passing the file you want to read from
 boolean playAgain \= false;
 
 do {  
+     
      do {  
+        
         ask the user for the word length  
         if the given word length is invalid  
             display error message  
-     } while(the word length is invalid);  
+     } 
+     
+          while(the word length is invalid);  
      . . .
 
-} while(playAgain);
+} 
+
+     while(playAgain);
 
