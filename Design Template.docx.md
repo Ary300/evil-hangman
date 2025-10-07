@@ -31,12 +31,12 @@ public String getCode() \- Returns the common code of the WordFamily.
 **WordFamilyList**
 
 ***Instance Fields:***
-
 private ArrayList<WordFamily>() WordFamilyList; 
 
 private ArrayList<String>() LargestFamily; 
 
 ***Methods:***
+public void sort() \- This method will add WordFamily objects to WordFamilyList by comparing words in the dictionary via the getCode() method in the WordFamily class
 
 **Driver Pseudocode**
 
