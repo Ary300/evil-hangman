@@ -29,6 +29,7 @@ public ArrayList\<String\> getWordsOfLength(int len) \- Returns an ArrayList of 
 ***Instance Fields:***
 
 private ArrayList<WordFamily>() WordFamilyList; 
+
 private ArrayList<String>() LargestFamily; 
 
 ***Methods:***
